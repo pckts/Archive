@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""\\DOMAIN\NETLOGON\R4W11_ONPREM.ps1""' -Verb RunAs}"
